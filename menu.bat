@@ -6,13 +6,13 @@ cls
 echo.
 type banner.txt
 echo.
-echo ================================
-echo.             MENU
-echo ================================
+echo =================================
+echo.              MENU
+echo =================================
 echo 1. Launch script
 echo 2. Start install requirements file
 echo 3. EXIT
-echo ================================
+echo =================================
 set /p choice="Please select an option (1-3): "
 
 if "%choice%"=="1" (

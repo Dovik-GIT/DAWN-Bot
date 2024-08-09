@@ -1,0 +1,4 @@
+discord.py==1.7.3
+requests==2.31.0
+art==5.9
+asyncio==3.4.3

@@ -1,4 +1,5 @@
 {
-  "token": "YOUR TOKEN",
-  "prefix": "!"
+    "token": "Your Token",
+    "nitrosnip": "False",
+    "prefix": "!"
 }

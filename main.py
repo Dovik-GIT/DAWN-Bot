@@ -14,15 +14,11 @@ from art import *
 import asyncio
 import base64
 import sys
-import nmap
 import subprocess
 
 vert = "\033[32m"
 blanc = "\033[37m"
 rouge = "\033[31m"
-
-nm = nmap.PortScanner()
-
 
 with open('config.json', 'rt') as readfile:
     readconfig = json.load(readfile)

